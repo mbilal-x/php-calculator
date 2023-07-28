@@ -16,7 +16,7 @@ git clone https://github.com/mbilal-x/php-calculator.git
 2. **Configure Your Server:**
 
 - Ensure you have XAMPP or a similar server environment installed on your computer.
-- Copy the repository folder (`simple-php-calculator`) into the appropriate server directory (e.g., `htdocs` for XAMPP).
+- Copy the repository folder (`php-calculator`) into the appropriate server directory (e.g., `htdocs` for XAMPP).
 
 3. **Start the Server:**
 
@@ -24,7 +24,7 @@ git clone https://github.com/mbilal-x/php-calculator.git
 
 4. **Access the Application:**
 
-- Open your web browser and visit: `http://localhost/php-calculator-main/index.php`
+- Open your web browser and visit: `http://localhost/php-calculator`
 
 
 ## Features
